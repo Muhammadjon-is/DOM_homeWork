@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+
+   
+}
+.card1{
+    /* margin: 10px; */
+    /* padding: 10rem; */
+ display: flex;
+ /* flex-wrap: wrap; */
+ justify-content: center;
+}
+.img{
+    width: 200px;
+    height: 300px;
+}
+ .images {
+    width: 100%;
+    height: auto;
+ }
+ .colorgrey {
+    background-color: grey;
+     color: white;
+ }
+ .rotated-image {
+    width: 200px;
+    height: 300px;
+    border-radius: 10px ;
+    border: 1px solid red;
+           
+  }
